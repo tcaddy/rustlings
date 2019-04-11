@@ -2,7 +2,7 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-    call_me();
+    println!("TODO: call_me();");
 }
 
 
